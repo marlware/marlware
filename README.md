@@ -1,3 +1,3 @@
 > - languages: Java, Kotlin, SQL
-> - software & platforms: Android Studio, IntelliJ IDEA, Visual Studio Code, MySQL, React, Node.js, Spring Boot, ASP.NET Core
-> - areas that I have worked with a little bit: Python, C, C++, C\#, NoSQL
+> - technologies: Spring Boot, Kafka, Redis, PostgreSQL, React, Node.js, Docker
+> - cloud/tools: AWS, Git, GitHub Actions, IntelliJ IDEA, Android Studio, VS Code
