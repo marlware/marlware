@@ -5,7 +5,7 @@
 
 > - full-stack 🍓 ୨♡୧
 > - languages: Go, Java, Python, SQL
-> - technologies: Spring Boot, Kafka, Redis, PostgreSQL, DynamoDB, React, Node.js, Docker
+> - technologies: React, Node.js, Spring Boot, Kafka, gRPC, Redis, PostgreSQL, DynamoDB
 > - cloud/tools: AWS, Git, GitHub Actions, IntelliJ IDEA, VS Code
 
 > - client 🍓 ୨♡୧
