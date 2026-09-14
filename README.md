@@ -17,3 +17,4 @@
 > - cross-platform homelab media player [riley](https://github.com/marlware/riley)
 > - distributed notification hub [etch](https://github.com/marlware/etch)
 > - asset management platform [zinnia](https://github.com/marlware/zinnia)
+> - lost-and-found mobile app [findit](https://github.com/Yug-More/find-it)
