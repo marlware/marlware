@@ -4,7 +4,7 @@
 > - multi-platform client infrastructure
 
 > - full-stack 🍓 ୨♡୧
-> - languages: Java, Go, Python, SQL
+> - languages: Java, Go, Python, C/C++, SQL
 > - technologies: React, Node.js, Spring Boot, Kafka, gRPC, Redis, PostgreSQL, DynamoDB
 > - cloud/tools: AWS, Git, GitHub Actions, IntelliJ IDEA, VS Code
 
