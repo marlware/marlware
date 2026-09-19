@@ -9,9 +9,9 @@
 > - cloud/tools: AWS, Git, GitHub Actions, IntelliJ IDEA, VS Code
 
 > - client 🍓 ୨♡୧
-> - languages: Kotlin, Swift, BrightScript
-> - platforms: Android, iOS, Roku
-> - tools: Android Studio, XCode, VS Code
+> - languages: Swift, Kotlin, BrightScript
+> - platforms: iOS, Android, Roku
+> - tools: XCode, Android Studio, VS Code
 
 > - ongoing 🥥 ୨♡୧
 > - cross-platform homelab media player [riley](https://github.com/marlware/riley)
