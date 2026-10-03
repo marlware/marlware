@@ -13,7 +13,7 @@
 > - platforms: iOS, Android, Roku
 > - tools: XCode, Android Studio, VS Code
 
-> - ongoing 🥥 ୨♡୧
+> - ongoing 🥥 ᓚᘏᗢ
 > - android/automotive media sync [vanellope](https://github.com/marlware/vanellope)
 > - distributed notification hub [etch](https://github.com/marlware/etch)
 > - asset management platform [zinnia](https://github.com/marlware/zinnia)
